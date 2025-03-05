@@ -2,6 +2,8 @@
 
 This project implements object detection in various scenarios, including static images, video files, and real-time webcam feeds. It utilizes machine learning models, likely based on YOLO (You Only Look Once) or OpenCV, to identify and track objects within different media formats.
 
+IDE - VScode/jupyter notebook
+
 Features
 1. Object Detection in Images (object detection in an image.py):
 Detects objects in a given static image and annotates them with bounding boxes.
