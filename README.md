@@ -40,6 +40,5 @@ Future Improvements
 2. Implement tracking for more stable detections.
 3. Optimize performance for real-time detection with efficient inference techniques.
 
-project refered & creds goes to Shantam Sultania !!
+project refered from Shantam Sultania !!
 To learning !!!
-
